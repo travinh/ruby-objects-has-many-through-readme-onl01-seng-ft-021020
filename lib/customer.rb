@@ -25,5 +25,9 @@ class Customer
     end
   end
   
+  def new_meal(waiter, total, tip)
+    
+  end
+  
   
 end
